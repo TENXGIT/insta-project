@@ -1,0 +1,40 @@
+#box{
+    border: 1px solid black;
+    height:400px;
+    width:400px;
+    position: relative;
+    top:200px;
+}
+#nav5{
+    
+    border: 1px solid rgb(220, 205, 205);
+    padding:3px;
+    height: 72px;
+    width: 393px;
+    display: flex;
+    justify-content: space-between;
+}
+#image{
+    border: 1px solid black;
+    height: 220px;
+    width: 400px;
+}
+#pho{
+    
+    height: 220px;
+    width: 400px;
+    position: relative;
+    left:0;
+    top:0;
+}
+#likeimg{
+    height: 32px;
+    width: 32px;
+}
+#arrowimg{
+    height: 32px;
+    width: 32px;
+}
+#lastpart{
+    display: flex;
+}

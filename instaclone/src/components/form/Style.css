@@ -1,0 +1,33 @@
+#main{
+    border: 2px solid black;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    left:500px;
+    top:100px;
+    padding: 30px;
+}
+
+#input{
+    width: 325px;
+}
+#part2{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+        top:10px;
+}
+#part3{
+    
+    position: relative;
+        top:15px;
+
+}
+#input1{
+    width: 395px;
+}
+#part4{
+    position: relative;
+    left:160px;
+    top:20px
+}
