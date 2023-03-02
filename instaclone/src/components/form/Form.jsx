@@ -19,7 +19,7 @@ const Form=()=>{
        </div>
 
        <div id="part2">
-        <input type="text" placeholder={"Author"}  required />
+        <input type="text" placeholder={"name"}  required />
        <input type="text" placeholder="Location" required />
        </div>
 
